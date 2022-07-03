@@ -30,7 +30,7 @@ pip install git+https://github.com/openai/CLIP.git
 
 ```
 # accelerate launch --config_file ./config_tpu.yml train.py --batch-size=32 
-
+```
 ## Acknowledgments
 
 We would like to thank Thanh V. Le and  GPT2 team for providing valuable resources from VLSP 2021 viecap4h Challenge
