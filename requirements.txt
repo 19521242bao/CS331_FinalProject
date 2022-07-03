@@ -1,0 +1,6 @@
+gdown
+datasets
+transformers
+tqdm
+torch
+accelerate
